@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Card</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+
+    <div class="profile-card">
+        <img src="avatar-jessica.jpeg" alt="Profile Picture">
+        <h2>Jessica Randall</h2>
+        <p>London, United Kingdom</p>
+        <p id="ctd">"Front-end developer and avid reader."</p>
+        <button><a href="https://github.com" style="color: white; text-decoration: none;">GitHub</a></button>
+        <button><a href="https://www.frontendmentor.io" style="color: white; text-decoration: none;">Frontend Mentor</a></button>
+        <button><a href="https://www.linkedin.com" style="color: white; text-decoration: none;">LinkedIn</a></button>
+        <button><a href="https://twitter.com/frontendmentor" style="color: white; text-decoration: none;">Twitter</a></button>
+        <button><a href="https://www.instagram.com" style="color: white; text-decoration: none;">Instagram</a></button>
+    </div>
+</body>
+</html>
